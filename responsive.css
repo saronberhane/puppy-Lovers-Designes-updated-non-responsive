@@ -1,0 +1,28 @@
+@media only screen and (max-width: 1661px) {
+    .two-puppies img{
+        width: 100%;
+        height: auto;
+        justify-content: space-between;
+    }
+
+    .img-of-puppies img{
+        width: 100%;
+        height: auto;
+        justify-content: space-between;
+    }
+}
+
+@media only screen and (max-width: 414px) {
+  .container{
+    display: inline;
+  }
+  .two-puppies img{
+    width: 100%;
+    height: auto;
+}
+
+.img-of-puppies img{
+    width: 100%;
+    height: auto;
+}
+}
