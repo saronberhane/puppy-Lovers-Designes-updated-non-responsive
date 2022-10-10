@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 .container{
@@ -65,8 +66,8 @@ header h1{
 
 /* Start of two puppies */
 .two-puppies img{
-    width: 644px;
-    height: 732px;
+    width: 722px;
+    height: 799px;
     margin-bottom: 77px;
 }
 /* End of two puppies */
